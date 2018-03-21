@@ -1,0 +1,5 @@
+C:\Users\ramon\source\repos\AutomationProject.BDD\AutomationProject.Helpers\bin\Debug\AutomationProject.Helpers.dll
+C:\Users\ramon\source\repos\AutomationProject.BDD\AutomationProject.Helpers\bin\Debug\AutomationProject.Helpers.pdb
+C:\Users\ramon\source\repos\AutomationProject.BDD\AutomationProject.Helpers\obj\Debug\AutomationProject.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\AutomationProject.BDD\AutomationProject.Helpers\obj\Debug\AutomationProject.Helpers.dll
+C:\Users\ramon\source\repos\AutomationProject.BDD\AutomationProject.Helpers\obj\Debug\AutomationProject.Helpers.pdb
